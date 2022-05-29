@@ -1,4 +1,4 @@
-# Extenções Usadas no VS Code
+# MInhas Extenções Usadas no VS Code
 
 <h4>Última atualização 28/05/2022</h4>
 
